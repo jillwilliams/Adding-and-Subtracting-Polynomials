@@ -1,0 +1,27 @@
+/* font-family: 'McLaren', cursive;
+font-family: 'Yeon Sung', cursive;
+font-family: 'Liu Jian Mao Cao', cursive; */
+body {
+    font-family: "McLaren", cursive;
+    font-size: 1.5rem;
+    color: white;
+    background-image: linear-gradient(yellow,blue);
+    margin: 15px 35px 45px 35px;
+    letter-spacing: 4px;
+    color: black;
+}
+h1 {
+    font-size: 2rem;
+    text-align: center;
+    color: black;
+}
+h2, p {
+    font-size: 1.5rem;
+    text-align: left;
+    color: black;
+}
+
+footer {
+    font-size: 1rem;
+    text-align: center;
+}
