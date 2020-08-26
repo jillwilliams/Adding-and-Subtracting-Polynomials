@@ -20,7 +20,11 @@ h2, p {
     text-align: left;
     color: black;
 }
-
+iframe {
+    margin: 15px 33% 15px 33%;
+    border: 1px black solid;
+    outline: 1px white solid;
+}
 footer {
     font-size: 1rem;
     text-align: center;
